@@ -2,5 +2,5 @@ Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtec
 Enable-RemoteDesktop
 
 choco install cheatengine
-choco install x64dbg
+choco install x64dbg.portable
 choco install processhacker
